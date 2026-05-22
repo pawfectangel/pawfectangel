@@ -11,6 +11,6 @@
     </tr>
     </table>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzacpav4yxddiufsuxqevsahvy&cover_image=false&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=A851A0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzacpav4yxddiufsuxqevsahvy&redirect=true) 　　　　　　![buns](https://komarev.com/ghpvc/?username=luvairi&color=ffe7e4&label=𐔌՞..՞𐦯)
+<img src="https://file.garden/ag__H93sy2vVQLHB/bun" width="150" align="middle"> 　　　　　　![buns](https://komarev.com/ghpvc/?username=pawfectangel&color=ff9cc7&label=angels)
 
-[![Spotify](https://vercel.app)]([https://spotify.com](https://open.spotify.com/user/31uzacpav4yxddiufsuxqevsahvy?si=6a4819b901024b42))
+
