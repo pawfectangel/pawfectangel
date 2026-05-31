@@ -15,12 +15,12 @@
 
 <p align="center">
   <a href="https://angelsbunnyz.straw.page/">
-    <img src="https://file.garden/ag__H93sy2vVQLHB/strawpage.png" alt="strawpage" height="200">
+    <img src="https://file.garden/ag__H93sy2vVQLHB/strawpage.png" alt="strawpage" height="160">
   </a>
   <a href="https://rentry.co/bunnymeow">
-    <img src="https://file.garden/ag__H93sy2vVQLHB/shared.png" alt="shared rentry" height="200">
+    <img src="https://file.garden/ag__H93sy2vVQLHB/shared.png" alt="shared rentry" height="160">
   </a>
   <a href="https://guns.lol/angelsbunnyh">
-    <img src="https://file.garden/ag__H93sy2vVQLHB/guns.png" alt="guns lol" height="200">
+    <img src="https://file.garden/ag__H93sy2vVQLHB/guns.png" alt="guns lol" height="160">
   </a>
 </p>
