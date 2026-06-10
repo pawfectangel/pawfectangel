@@ -1,11 +1,11 @@
 <img src="https://file.garden/ag__H93sy2vVQLHB/eremika.png" width="400" align="left">
 
 <table>
-<br>
     <tr>
       <td>
         <br>
- ${\textsf{\color{#634a57} eren, i want to help you carry the burden of your sins.}}$ 
+${\textsf{\color{#634a57} eren, i want to help you carry the burden of your sins.}}$
+${\textsf{\color{#605254} please eren, quit running.. let's go home.}}$ 
          <br>
       </td>
     </tr>
