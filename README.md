@@ -7,6 +7,7 @@
 ${\textsf{\color{#634a57} eren, i want to help you carry the burden of your sins.}}$
             <br>
 ${\textsf{\color{#fadae9} please eren, quit running.. let's go home.}}$ 
+             <br>
          <br>
       </td>
     </tr>
