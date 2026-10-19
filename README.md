@@ -1,6 +1,6 @@
 
 
-<img src="https://file.garden/ag__H93sy2vVQLHB/Untitled490_20260821185511.png" width="300" align="left">
+ㅤㅤㅤ ㅤㅤㅤㅤㅤ<img src="https://file.garden/ag__H93sy2vVQLHB/fursoma.png" width="600" align="middle">
 
 <table>
         <tr>
